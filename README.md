@@ -36,6 +36,10 @@ The solution was designed and implemented using open-source tools widely adopted
 ### Departament dimension:
 <img width="640" height="223" alt="dimension departament" src="https://github.com/user-attachments/assets/c6c67c16-be2b-4aad-a428-96b014f3acbf" />
 
+### Time dimension:
+<img width="1193" height="159" alt="dimension time" src="https://github.com/user-attachments/assets/3043e0ac-c3ab-421b-9b2f-01e8bf34b70a" />
+
+
 ### Fact sales:
 <img width="1416" height="200" alt="fact sales" src="https://github.com/user-attachments/assets/f37f2f68-0d66-4309-8916-5795b7f5e0e5" />
 
